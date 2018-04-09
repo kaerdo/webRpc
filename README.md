@@ -8,6 +8,7 @@
 
    函数注册有命名规则 "模式+自定义"
 
+
 注册：
 ```
 s = RpcServer.init(options.addr)
