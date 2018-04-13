@@ -4,7 +4,7 @@
 
 1. 支持三种模式 同步 异步 线程
 2. 支持token
-3. 线程池没使用tornado的ThreadPoolExecutor 自带的功能较弱. 自己实现了一个,可支持优先级,稍后再精简下会push上来.
+3. 线程池没使用tornado的ThreadPoolExecutor 自带的功能较弱. 自己实现了一个,可支持优先队列,稍后再精简下会push上来.
 
 
 
